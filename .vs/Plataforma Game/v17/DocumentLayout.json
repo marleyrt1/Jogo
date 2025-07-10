@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\gameplay\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\gameplay\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\endpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\enemy\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\enemy\\beecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\beecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\gameplay\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\gameplay\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\playerlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\gameplay\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\menu\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|d:\\workspace charlotte cat games\\plataforma game\\assets\\scripts\\gameplay\\activationfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\activationfall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\enemy\\headspike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\headspike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\enemy\\fallcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\fallcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\enemy\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\gameplay\\sprintacitvation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\sprintacitvation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\enemy\\sawmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\sawmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\enemy\\killer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\killer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\assets\\scripts\\gameplay\\fallingplaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06F7628-C09B-9EA1-0098-B1E63140AE71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\fallingplaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trap.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\Trap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Trap.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\Trap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Trap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:17:48.881Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SawMove.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\SawMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\SawMove.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\SawMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\SawMove.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:16:21.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SprintAcitvation.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\SprintAcitvation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlay\\SprintAcitvation.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\SprintAcitvation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlay\\SprintAcitvation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:09:33.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FallingPlaform.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\FallingPlaform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlay\\FallingPlaform.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\FallingPlaform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlay\\FallingPlaform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:49:09.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FallCollider.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\FallCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FallCollider.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\FallCollider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FallCollider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:23:21.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "collectible.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\collectible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlay\\collectible.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\collectible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlay\\collectible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T20:09:01.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EndPoint.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\EndPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlay\\EndPoint.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\EndPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlay\\EndPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:35:22.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlay\\Manager.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlay\\Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:12:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Killer.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\Killer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Killer.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\Killer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Killer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:27:08.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeeController.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\BeeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BeeController.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\BeeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BeeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:10:00.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerLife.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\PlayerLife.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlay\\PlayerLife.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\PlayerLife.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlay\\PlayerLife.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:21:55.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlay\\PlayerController.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlay\\PlayerController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAmwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:05:32.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Menu\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\MainMenuController.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Menu\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\MainMenuController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:56:05.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnemyMover.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\EnemyMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyMover.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\EnemyMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyMover.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:47:20.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActivationFall.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\ActivationFall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlay\\ActivationFall.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\GamePlay\\ActivationFall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlay\\ActivationFall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:17:05.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HeadSpike.cs",
+              "DocumentMoniker": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\HeadSpike.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\HeadSpike.cs",
+              "ToolTip": "D:\\WorkSpace Charlotte Cat Games\\Plataforma Game\\Assets\\Scripts\\Enemy\\HeadSpike.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\HeadSpike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:18:20.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MainMenuController">
+			<method name="ExitGame"/>
+			<method name="LoadGame"/>
+			<method name="NewGame"/>
+		</type>
+		<type fullname="Manager">
+			<method name="Exit"/>
+			<method name="Exit"/>
+			<method name="Exit"/>
+			<method name="Exit"/>
+			<method name="Exit"/>
+			<method name="Exit"/>
+			<method name="Exit"/>
+			<method name="Exit"/>
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="ReloadScene"/>
+			<method name="ReloadScene"/>
+			<method name="ReloadScene"/>
+			<method name="ReloadScene"/>
+			<method name="ReloadScene"/>
+			<method name="ReloadScene"/>
+			<method name="ReloadScene"/>
+			<method name="ReloadScene"/>
+		</type>
+	</assembly>
+</linker>
